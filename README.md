@@ -8,7 +8,11 @@
 
 # Run On Your Machine?
   1. Firstly, clone the repository using the git shell 
+<<<<<<< HEAD
       - $ git clone ......
+=======
+      - $ git clone ....
+>>>>>>> baf0ab12f29c094b0f97b3dc0b6863be0013325c
   2. Goto the base directory of the project 
      - cd portfolio 
   3. Create a virtual environment and activate it. 
@@ -20,7 +24,11 @@
       - $ python manage.py runserver 
 
 # Live Example
+<<<<<<< HEAD
    [Portfolio](........)
+=======
+   [Portfolio](.............)
+>>>>>>> baf0ab12f29c094b0f97b3dc0b6863be0013325c
 
 
 # © 2021 GitHub, Inc.
